@@ -1,5 +1,5 @@
 # eYRC_2018
-Theme - Homecoming
+Theme - Homecoming.
 The arena for the theme is an abstraction of an ecosystem in a grid-form. The goal is to devise an
 autonomous robot to negotiate a path on the arena to visit the Animals and Habitats and to identify
 them using Machine Learning algorithms. It then picks up the identified Animals and places them
