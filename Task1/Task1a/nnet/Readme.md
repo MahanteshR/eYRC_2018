@@ -1,6 +1,6 @@
-Problem Statement:
+# Problem Statement:
 To classify digits with a 2-Layer Neural Network using MNIST dataset.
-Objective:
+# Objective:
 The task requires you to code, from scratch, all parts of a two layer neural network to train
 and predict digits given images. We will use architecture described in Figure 1. We will make
 use of PyTorch’s Tensor API only to implement all the core neural network operations and
