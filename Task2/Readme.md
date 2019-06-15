@@ -7,3 +7,5 @@ The colored boxes in the grid represent Habitats and the boxes outside the grid 
 Check the image(Grid_outline) for a better understanding.
 #
 The images with filename as 'output_i' represent the processed output of the corresponding 'i' image.
+#
+The folders have the colored output boxes with respective habitat and animal locations of the 'i'th image.
