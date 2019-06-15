@@ -3,3 +3,5 @@ You are given an image similar to the arena image. It has the same geometric str
 Along with that you should also be able to copy whatever there is in this non-empty Animal or Habitat locations as separate image files.
 #
 The colored boxes in the grid represent Habitats and the boxes outside the grid represent Animals
+#
+Check the image(Grid_outline) for a better understanding.
